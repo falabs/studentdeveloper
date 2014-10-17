@@ -12,7 +12,7 @@ entrepreneurship, helping them create real impact for a better tomorrow.
 ### [DreamSpark](http://dreamspark.com)
 DreamSpark is simple: it's all about giving students Microsoft
 professional-level developer and designer tools at no cost so that students can
-chase their dreams and create the next big breakthrough in technology - or just
+chase their dreams and create the next big breakthrough in technology—or just
 get a head start on their career.
 
 ### [Microsoft Virtual Academy (MVA)](http://microsoftvirtualacademy.com)
@@ -40,9 +40,9 @@ by doing.
 
 ## [Crowdflower](http://crowdflower.com)
 Crowdsourcing and data enrichment platform Access to the Crowdflower platform
-(normally $2,500/month) and $50 in worker credit
+(normally $2,500/month) and $50 in worker credit.
 
 
 ## [DigitalOcean](digitalocean.com)
 Simple cloud hosting, built for developers. $100 in platform credit for new
-users
+users.
